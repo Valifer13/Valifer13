@@ -5,7 +5,7 @@ Just a student who is interested in technology. Especially in AI & ML, and Web D
 * I'm student at [SMK TI Bali Global Denpasar](https://smkti-baliglobal.sch.id/)
 * Currently learning about React & Laravel
 * I had an internship at [Red System](https://redsystem.id/)
-* My tools? nahhh, I use everything
+* My tools? nah, I'd use everything
 
 Let's be friends and clearing the fog of future together.
 
