@@ -1,15 +1,33 @@
-<h1>Valifer13</h1>
+<h1 align="left">Hey there!</h1>
 
-Just a student who is interested in technology. Especially in AI & ML, and Web Development. I can't design, and I use my left brain more often.
+###
 
-* I'm student at [SMK TI Bali Global Denpasar](https://smkti-baliglobal.sch.id/)
-* Currently learning about React & Laravel
-* I had an internship at [Red System](https://redsystem.id/)
-* My tools? nah, I'd use everything
+<p align="left">My name is Vincent and I'm a  student from SMK TI Bali Global Denpasar</p>
 
-Let's be friends and clearing the fog of future together.
+###
 
-<!---
-Valifer13/Valifer13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2023.<br>📚 I'm currently learning the concept behind web development.<br>🎯 Goals: Become a GOOD Software Engineer.<br>🎲 Fun fact: I'm also interested in low level programming.</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
